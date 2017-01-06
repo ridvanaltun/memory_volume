@@ -1,0 +1,9 @@
+C:\Users\ridva\Documents\GitHub\memory_volume\memory_volume\bin\Release\memory_volume.exe.config
+C:\Users\ridva\Documents\GitHub\memory_volume\memory_volume\bin\Release\memory_volume.exe
+C:\Users\ridva\Documents\GitHub\memory_volume\memory_volume\bin\Release\memory_volume.pdb
+C:\Users\ridva\Documents\GitHub\memory_volume\memory_volume\obj\Release\memory_volume.csprojResolveAssemblyReference.cache
+C:\Users\ridva\Documents\GitHub\memory_volume\memory_volume\obj\Release\memory_volume.Form1.resources
+C:\Users\ridva\Documents\GitHub\memory_volume\memory_volume\obj\Release\memory_volume.Properties.Resources.resources
+C:\Users\ridva\Documents\GitHub\memory_volume\memory_volume\obj\Release\memory_volume.csproj.GenerateResource.Cache
+C:\Users\ridva\Documents\GitHub\memory_volume\memory_volume\obj\Release\memory_volume.exe
+C:\Users\ridva\Documents\GitHub\memory_volume\memory_volume\obj\Release\memory_volume.pdb
